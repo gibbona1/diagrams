@@ -417,11 +417,11 @@
         <mxCell id="tr2L6LvXzopLyFMbQWRh-116" value="$$64\times64\times4$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;fontSize=10;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="890" y="440" width="30" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="tr2L6LvXzopLyFMbQWRh-119" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 5px; text-wrap: wrap;&quot;&gt;$$128\times1$$&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="395" y="380" width="60" height="30" as="geometry" />
+        <mxCell id="tr2L6LvXzopLyFMbQWRh-119" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 14px; text-wrap: wrap;&quot;&gt;$$128\times1$$&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="360" y="390" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tr2L6LvXzopLyFMbQWRh-120" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 5px; text-wrap: wrap;&quot;&gt;$$n_{c}\times1$$&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="270" y="395" width="60" height="30" as="geometry" />
+        <mxCell id="tr2L6LvXzopLyFMbQWRh-120" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 14px; text-wrap: wrap;&quot;&gt;$$n_{c}\times1$$&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="230" y="405" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tr2L6LvXzopLyFMbQWRh-121" value="$$64\times64\times4$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;fontSize=5;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="150" y="260" width="30" height="15" as="geometry" />
