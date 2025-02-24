@@ -1,9 +1,51 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="Page-1" id="03cAUcTsqjroBgGnRWG_">
-    <mxGraphModel>
+    <mxGraphModel dx="742" dy="553" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Gv4cFFOPoyniPkkTgmnp-1" value="Literature Search" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="158" y="104" width="130" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="Gv4cFFOPoyniPkkTgmnp-2" value="Missing Information" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="158" y="383.5" width="130" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="Gv4cFFOPoyniPkkTgmnp-3" value="Review Papers" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="367" y="383.5" width="130" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="Gv4cFFOPoyniPkkTgmnp-4" value="Relevance" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="367" y="244" width="130" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="Gv4cFFOPoyniPkkTgmnp-6" value="Workshop/Conference" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="369" y="101" width="130" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="Gv4cFFOPoyniPkkTgmnp-7" value="Manual Screening" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="435" y="243" width="409" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="Gv4cFFOPoyniPkkTgmnp-9" value="Combined from 3 sources gives 372 entries. Removing duplicates (31) gives 341 entries." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="241" y="51" width="162" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="Gv4cFFOPoyniPkkTgmnp-10" value="Missing abstract, year or both DOI and URL (5) gives 335 entries)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="331" width="162" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="Gv4cFFOPoyniPkkTgmnp-11" value="Review papers (56) coming under document types &quot;Review&quot;, &quot;Note&quot;, &quot;Conference review&quot;, &quot;Letter&quot;, &quot;Editorial&quot; were excluded, yielding 279 research articles" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="456" y="331" width="162" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="Gv4cFFOPoyniPkkTgmnp-12" value="&lt;div&gt;Papers which not containing elements of the search string in their title or abstract (130) as well as off-&lt;span style=&quot;background-color: initial;&quot;&gt;topic papers (15) with focuses such as soil chemistry and frequency control rather than bioacoustics were excluded, yielding 149 entries.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="453" y="191.5" width="162" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="Gv4cFFOPoyniPkkTgmnp-13" value="&lt;div&gt;Removing papers only presented at workshops/conferences (24), in order to focus on research articles, yields 125 entries.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="453" y="48.5" width="162" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="Gv4cFFOPoyniPkkTgmnp-14" value="&lt;div&gt;The resulting literature was then manually screened and papers were removed for the following reasons:&lt;/div&gt;&lt;div&gt;not in english (1)&lt;/div&gt;&lt;div&gt;irrelevant (6)&lt;/div&gt;&lt;div&gt;review papers or book chapters (11)&lt;/div&gt;&lt;div&gt;non preer reviewed preprints (2)&lt;/div&gt;&lt;div&gt;Masters or PhD Thesis (20)&lt;/div&gt;&lt;div&gt;Unavailable (6)&lt;/div&gt;&lt;div&gt;This gives 79 papers.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="658" y="51" width="162" height="402" as="geometry" />
+        </mxCell>
+        <mxCell id="Gv4cFFOPoyniPkkTgmnp-15" value="A single paper was tagged as not in english and so was removed, giving 340 entries." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="241" y="191.5" width="162" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="Gv4cFFOPoyniPkkTgmnp-18" value="Not in English" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="158" y="244" width="130" height="24" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
